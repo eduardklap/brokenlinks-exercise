@@ -1,4 +1,4 @@
-# readme-exercise
+# brokenlinks-exercise
 
 This is a simple website for a short exercise used during the [Responsible Research Data Management course](https://www.egsh.eur.nl/doctoral-education/phd-course-guide/responsible-research-data-management-rdm/) at the Erasmus Graduate School for Social Sciences and the Humanities (EGSH).  
 
